@@ -144,11 +144,11 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-joel&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abishek-07d&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" />
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=a-joel&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="joel" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=abishek-07d&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="joel" style="padding-right:20px;" />
 </p>
 
 ## Dream Company
