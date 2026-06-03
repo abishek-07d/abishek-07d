@@ -174,7 +174,7 @@
       <h3 align="center"><strong>🏆 Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/a-joel">
-          <img src="https://github-contributor-stats.vercel.app/api?username=a-joel&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repos" />
+          <img src="https://github-contributor-stats.vercel.app/api?username=abishek-07d&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repos" />
         </a>
       </p>
     </td>
