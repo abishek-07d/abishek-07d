@@ -2,7 +2,7 @@
   <img src="https://github.com/a-joel/.github/blob/main/joel-banner-image.jpg" alt="Joel's Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi there 👋 I'm Joel!</h1>
+<h1 align="center">Hi there 👋 I'm Abishek!</h1>
 
 <p align="center">
   🧠 Self-taught developer building robust backends & intelligent apps<br>
