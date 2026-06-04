@@ -156,7 +156,8 @@
           
 ---
 
-> “Code like poetry — thoughtful, elegant, and impactful.”
+> “The Universe Never Says NO!
+It Only Says “NOT YET.”.”
 
 <!-- GitHub Streak & Top Contributions -->
 <table width="100%">
