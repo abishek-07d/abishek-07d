@@ -150,7 +150,11 @@
   <img src="https://komarev.com/ghpvc/?username=abishek-07d&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="joel" style="padding-right:20px;" />
 </p>
 
-## Dream Company
+## 🎯 Career Goal
+
+🍎 Apple
+
+Building technology that impacts millions while staying grounded in security, performance, and innovation.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="55" height="55" />
 <i class="devicon-apple-original"></i>
           
