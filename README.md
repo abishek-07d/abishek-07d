@@ -5,8 +5,8 @@
 <h1 align="center">Hi there 👋 I'm Abishek!</h1>
 
 <p align="center">
-  🧠 Self-taught developer building robust backends & intelligent apps<br>
-  🚀 Building 12 Projects in 12 Months | DSA & System Design Enthusiast<br>
+  🔐 Cybersecurity Student passionate about securing networks & systems<br>
+  🚀 Building 12 Projects in 12 Months | Self-taught developer<br>
   🌌 Space-Tech Enthusiast | Future Security Engineer
 </p>
 
