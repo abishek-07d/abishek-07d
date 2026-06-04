@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/abishek-07d/abishek-07d/main/abishek-banner.png" alt="Abishek's Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi there 👋 I'm Abishek!</h1>
+<h1 align="center">Hi there 👋 I'm Abishek Devanand!</h1>
 
 <p align="center">
   🔐 Cybersecurity Student passionate about securing networks & systems<br>
