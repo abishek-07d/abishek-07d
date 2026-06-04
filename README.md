@@ -157,7 +157,7 @@
 ---
 
 > “The Universe Never Says NO!
-It Only Says “NOT YET.””
+It Only Says NOT YET!”
 
 <!-- GitHub Streak & Top Contributions -->
 <table width="100%">
