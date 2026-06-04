@@ -6,8 +6,8 @@
 
 <p align="center">
   🧠 Self-taught developer building robust backends & intelligent apps<br>
-  📚 Lifelong learner | DSA & System Design Enthusiast | Future FAANG Engineer<br>
-  ♟️ Grandmaster-in-training at <strong>Leap Chess</strong> — where algorithms meet strategy
+  🚀 Building 12 Projects in 12 Months | DSA & System Design Enthusiast<br>
+  🌌 Space-Tech Enthusiast | Future Security Engineer
 </p>
 
 <p align="center">
@@ -38,11 +38,12 @@
 
 ## 🚀 I Code In
 
-> "I code in languages that turn logic into impact.  
-> JavaScript for dynamic experiences, Python for intelligent systems, Java for rock-solid backends.  
-> Swift when I bridge ideas to Apple’s ecosystem.  
-> HTML & CSS aren’t just markup—they’re the canvas of the web.  
-> Every line I write is a step toward scalable, elegant solutions."
+> "I write code to solve real problems.
+> Python for automation and cybersecurity.
+> Java for scalable applications.
+> JavaScript for interactive experiences.
+> HTML & CSS for crafting modern interfaces.
+> Every project is an opportunity to learn, build, and improve."
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/>
@@ -61,11 +62,9 @@
 
 ## 🛠️ Technologies I Use
 
-> "I build with battle-tested frameworks and modern tooling.  
-> Bootstrap for rapid, responsive UIs that just work.  
-> Exploring ML libraries to infuse intelligence into everyday apps.  
-> RESTful APIs as the backbone of my backend services.  
-> Clean architecture over hype—always."
+> "I build secure and reliable applications using modern technologies.
+> Backend development, networking, cybersecurity, and system design are my primary focus areas.
+> Clean architecture, performance, and security always come first."
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/>
@@ -98,11 +97,11 @@
 
 ## 🔧 Tools I Use
 
->My IDE is my workshop—VS Code and PyCharm in rotation.
->Git and GitHub: not just for version control, but for clarity and collaboration.
->Google Cloud and AWS when I need infrastructure that scales.
->Vercel, Netlify, and Postman to ship and test like a pro.
->Notion and Canva to think clearly and present beautifully.
+> "VS Code is my command center.
+> Git and GitHub keep every project organized.
+> Kali Linux fuels my cybersecurity journey.
+> Postman helps me build and test APIs.
+> Every tool in my stack exists to help me build better systems."
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55"/>
