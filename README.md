@@ -11,27 +11,27 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joel-a-r/">
+  <a href="https://www.linkedin.com/in/abishek-d-437638323/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   
-  <a href="https://x.com/joel__professor">
+  <a href="https://x.com/abishek_164">
     <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/smuggler_teritory/">
+  <a href="https://www.instagram.com/abishek_164/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://wa.me/7418283366">
+  <a href="https://wa.me/918072356214?text=Hello%20Abishek,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you%20regarding%20software%20development,%20cybersecurity,%20projects,%20or%20collaboration%20opportunities.%0A%0ALooking%20forward%20to%20hearing%20from%20you.">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:joelvijay319@gmail.com">
+  <a href="mailto:abishek07d@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -133,8 +133,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/brave/brave-original.svg" width="55" height="55"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="55" height="55"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" width="55" height="55"/>
@@ -173,7 +171,7 @@ It Only Says NOT YET!”
     <td width="50%">
       <h3 align="center"><strong>🏆 Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/a-joel">
+        <a href="https://github.com/abishek-07d">
           <img src="https://github-contributor-stats.vercel.app/api?username=abishek-07d&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repos" />
         </a>
       </p>
